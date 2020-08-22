@@ -1,11 +1,5 @@
 # perceptOR
 
-# Full name: Karesia Ramlal
-# Student ID: 812000717
-# Email: karesia.ramlal@gmail.com
-# Course Code: COMP 6930
-
-
 # Inputs for perceptOR
 x1 = [0, 0, 1, 1] 
 x2 = [0, 1, 0, 1]
