@@ -1,10 +1,5 @@
 # perceptAND
 
-# Full name: Karesia Ramlal
-# Student ID: 812000717
-# Email: karesia.ramlal@gmail.com
-# Course Code: COMP 6930
-
 import numpy as np
 from numpy import random
 
